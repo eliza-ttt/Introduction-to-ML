@@ -2,7 +2,7 @@
 
 ## Introductory
 
-![img1](https://github.com/eliza-ttt/Cybersecurity-fundamentals/blob/main/image12.jpg?raw=true)<br>
+![img1](https://github.com/eliza-ttt/Introduction-to-ML/blob/main/image1.jpg?raw=true)<br>
 
 Objectives<br>
 
