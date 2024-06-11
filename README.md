@@ -5,7 +5,7 @@
 ![img1](https://github.com/eliza-ttt/Introduction-to-ML/blob/main/image1.jpg?raw=true)<br>
 
 
-![img1]()<br>
+![img1](https://github.com/eliza-ttt/Introduction-to-ML/blob/main/image3.jpg?raw=true)<br>
 
 Objectives<br>
 
